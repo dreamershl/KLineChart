@@ -1,0 +1,1172 @@
+{
+  "nodes": [
+    {
+      "id": "xcederweb_gitlab_ci",
+      "label": ".gitlab-ci.yml CI Pipeline Config",
+      "file_type": "code",
+      "source_file": ".gitlab-ci.yml",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_readme",
+      "label": "README.md Project Documentation",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "documents_chinese_terms",
+      "label": "Chinese Trading UI Localization Terms",
+      "file_type": "document",
+      "source_file": "documents/chinese terms.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "services_tt_hotkeys",
+      "label": "TT-Style Hotkeys Service Module",
+      "file_type": "code",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "static_humans",
+      "label": "humans.txt Technology Colophon",
+      "file_type": "document",
+      "source_file": "src/static/humans.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "static_index",
+      "label": "index.html SPA Entry Point",
+      "file_type": "code",
+      "source_file": "src/static/index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "static_robots",
+      "label": "robots.txt Allow-All",
+      "file_type": "document",
+      "source_file": "src/static/robots.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_react",
+      "label": "React Framework",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_material_ui",
+      "label": "Material UI Component Library",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_redux",
+      "label": "Redux State Management",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 2",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_redux_saga",
+      "label": "redux-saga Async State Handler",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_protobufjs",
+      "label": "protobufjs Network Serialization",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_atomosphere",
+      "label": "atomosphere WebSocket Communication",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_react_virtualized",
+      "label": "React-virtualized Large Lists",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_ag_grid",
+      "label": "ag-grid Table Component",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_react_grid_layout",
+      "label": "react-grid-layout Window Manager",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "System Structure line 9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_webpack",
+      "label": "Webpack Bundler",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Development Environment line 2",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_karma_mocha",
+      "label": "Karma + Mocha Unit Testing Framework",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Development Environment line 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_jenkins_ci",
+      "label": "Jenkins CI Pipeline",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Automated Testing Jenkins section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_istanbul",
+      "label": "Istanbul Code Coverage Tool",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Istanbul section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_chrome_headless",
+      "label": "Chrome Headless Browser Testing",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Web Testing Chrome Headless section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_trading_technology",
+      "label": "Trading Technologies (TT) Competitor",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Competitors section 1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_cqg",
+      "label": "CQG Chart-Based Trading Competitor",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Competitors section 2",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_joinquant",
+      "label": "JoinQuant (聚宽) Strategy Platform",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Competitors section 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_autospreader",
+      "label": "AutoSpreader TT Product",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Competitors section 1 detail",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_ladder",
+      "label": "Ladder Trading Interface Pattern",
+      "file_type": "concept",
+      "source_file": "README.md",
+      "source_location": "Competitors section 1 detail",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_single_page_app",
+      "label": "Single Page Application Architecture",
+      "file_type": "rationale",
+      "source_file": "README.md",
+      "source_location": "line 1: '基于 React 和 Material UI 的单页程序'",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_design_principles",
+      "label": "XcederWeb Design Principles",
+      "file_type": "rationale",
+      "source_file": "README.md",
+      "source_location": "Development Principles lines 4-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_backbone_js",
+      "label": "Backbone.js Framework",
+      "file_type": "concept",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "HotkeysCollection extend",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_hotkeys_collection",
+      "label": "HotkeysCollection Backbone Model",
+      "file_type": "code",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "HotkeysCollection definition",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_hotkeys_service",
+      "label": "HotkeysService Singleton",
+      "file_type": "code",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "HotkeysService constructor",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_mdtrader",
+      "label": "MDTrader Market Depth Trading Interface",
+      "file_type": "concept",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "MDTrader hotkey section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_platform_detection",
+      "label": "Mac/PC Platform Detection Pattern",
+      "file_type": "concept",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "isMac navigator check",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_browser_hotkey_overrides",
+      "label": "Browser Hotkey Override System",
+      "file_type": "concept",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "Browser overrides section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_chart_studies",
+      "label": "Chart Studies Indicator Taxonomy",
+      "file_type": "concept",
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Studies window section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_chart_tools",
+      "label": "Chart Drawing Tools Set",
+      "file_type": "concept",
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Chart tools section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_order_entry_types",
+      "label": "Trade Order Entry Type System",
+      "file_type": "concept",
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Pending order types section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_material_design_lite",
+      "label": "Material Design Lite (MDL)",
+      "file_type": "concept",
+      "source_file": "src/static/humans.txt",
+      "source_location": "Technology colophon",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_babel",
+      "label": "Babel JavaScript Transpiler",
+      "file_type": "concept",
+      "source_file": "src/static/humans.txt",
+      "source_location": "Technology colophon",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_xceder_brand",
+      "label": "Xceder Trading Platform Brand",
+      "file_type": "concept",
+      "source_file": "src/static/index.html",
+      "source_location": "title tag",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_realfavicongenerator",
+      "label": "RealFaviconGenerator Favicon Tool",
+      "file_type": "concept",
+      "source_file": "src/static/index.html",
+      "source_location": "comment line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_xceder_templates",
+      "label": "xceder/templates CI Templates Project",
+      "file_type": "concept",
+      "source_file": ".gitlab-ci.yml",
+      "source_location": "line 2",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_npm_ci_template",
+      "label": "npm CI Pipeline Template",
+      "file_type": "concept",
+      "source_file": ".gitlab-ci.yml",
+      "source_location": "line 3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_gitlab_release_template",
+      "label": "GitLab Release Pipeline Template",
+      "file_type": "concept",
+      "source_file": ".gitlab-ci.yml",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_i18n_localization",
+      "label": "Internationalization (Chinese) Localization",
+      "file_type": "rationale",
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "entire file",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xcederweb_spread_type_system",
+      "label": "Spread Type System (Strip/Calendar/Combo/Fly)",
+      "file_type": "concept",
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "Spread Type hotkey section",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_react",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 1",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_material_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 6",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_redux",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 2",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_redux_saga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 3",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_protobufjs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_atomosphere",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_react_virtualized",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_ag_grid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 8",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_react_grid_layout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 9",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_webpack",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Development Environment line 2",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_karma_mocha",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Development Environment line 3",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_jenkins_ci",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Automated Testing Jenkins section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_istanbul",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Istanbul section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_chrome_headless",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Web Testing Chrome Headless section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_trading_technology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 1",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_cqg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 2",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_joinquant",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 3",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_single_page_app",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "line 1",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_design_principles",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Development Principles lines 4-8",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_autospreader",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 1 detail",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_ladder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 1 detail",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_react",
+      "target": "xcederweb_single_page_app",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 1",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_material_ui",
+      "target": "xcederweb_single_page_app",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "System Structure line 1",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_design_principles",
+      "target": "xcederweb_material_ui",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Development Principles lines 4-8",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_design_principles",
+      "target": "xcederweb_react_virtualized",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "Development Principles lines 4-8",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_design_principles",
+      "target": "xcederweb_ag_grid",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "Development Principles lines 4-8",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_trading_technology",
+      "target": "xcederweb_autospreader",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 1",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_trading_technology",
+      "target": "xcederweb_ladder",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Competitors section 1",
+      "weight": 1.0
+    },
+    {
+      "source": "services_tt_hotkeys",
+      "target": "xcederweb_backbone_js",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "Backbone.Collection.extend",
+      "weight": 1.0
+    },
+    {
+      "source": "services_tt_hotkeys",
+      "target": "xcederweb_hotkeys_collection",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "HotkeysCollection definition",
+      "weight": 1.0
+    },
+    {
+      "source": "services_tt_hotkeys",
+      "target": "xcederweb_hotkeys_service",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "HotkeysService definition",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_hotkeys_collection",
+      "target": "xcederweb_backbone_js",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "Backbone.Collection.extend",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_hotkeys_service",
+      "target": "xcederweb_hotkeys_collection",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "HotkeysService.userHotkeys",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_hotkeys_service",
+      "target": "xcederweb_mdtrader",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "MDTrader hotkey keys section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_hotkeys_service",
+      "target": "xcederweb_platform_detection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "isMac navigator check",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_hotkeys_service",
+      "target": "xcederweb_browser_hotkey_overrides",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "Browser overrides section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_hotkeys_service",
+      "target": "xcederweb_spread_type_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "Spread Type section",
+      "weight": 1.0
+    },
+    {
+      "source": "documents_chinese_terms",
+      "target": "xcederweb_chart_studies",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Studies window section",
+      "weight": 1.0
+    },
+    {
+      "source": "documents_chinese_terms",
+      "target": "xcederweb_chart_tools",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Chart tools section",
+      "weight": 1.0
+    },
+    {
+      "source": "documents_chinese_terms",
+      "target": "xcederweb_order_entry_types",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Pending order types section",
+      "weight": 1.0
+    },
+    {
+      "source": "documents_chinese_terms",
+      "target": "xcederweb_i18n_localization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "entire file",
+      "weight": 1.0
+    },
+    {
+      "source": "static_humans",
+      "target": "xcederweb_material_design_lite",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/static/humans.txt",
+      "source_location": "Technology colophon",
+      "weight": 1.0
+    },
+    {
+      "source": "static_humans",
+      "target": "xcederweb_react",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/static/humans.txt",
+      "source_location": "Technology colophon",
+      "weight": 1.0
+    },
+    {
+      "source": "static_humans",
+      "target": "xcederweb_babel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/static/humans.txt",
+      "source_location": "Technology colophon",
+      "weight": 1.0
+    },
+    {
+      "source": "static_index",
+      "target": "xcederweb_xceder_brand",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/static/index.html",
+      "source_location": "title tag",
+      "weight": 1.0
+    },
+    {
+      "source": "static_index",
+      "target": "xcederweb_realfavicongenerator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/static/index.html",
+      "source_location": "comment line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "static_index",
+      "target": "xcederweb_single_page_app",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/static/index.html",
+      "source_location": "div id='app'",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_gitlab_ci",
+      "target": "xcederweb_xceder_templates",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".gitlab-ci.yml",
+      "source_location": "line 2",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_gitlab_ci",
+      "target": "xcederweb_npm_ci_template",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".gitlab-ci.yml",
+      "source_location": "line 3",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_gitlab_ci",
+      "target": "xcederweb_gitlab_release_template",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".gitlab-ci.yml",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_trading_technology",
+      "target": "xcederweb_hotkeys_service",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "TT hotkey prefix pattern",
+      "weight": 1.0
+    },
+    {
+      "source": "services_tt_hotkeys",
+      "target": "xcederweb_trading_technology",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/services/tt_hotkeys.txt",
+      "source_location": "TT-namespaced hotkey naming",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_material_ui",
+      "target": "xcederweb_material_design_lite",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_chart_studies",
+      "target": "xcederweb_chart_tools",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "Adjacent sections in terms file",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_ladder",
+      "target": "xcederweb_mdtrader",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_readme",
+      "target": "xcederweb_realfavicongenerator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Favicon generation section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_jenkins_ci",
+      "target": "xcederweb_karma_mocha",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Jenkins and Karma config section",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_jenkins_ci",
+      "target": "xcederweb_istanbul",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Jenkins coverage xml report pattern",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_jenkins_ci",
+      "target": "xcederweb_chrome_headless",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": "Chrome headless for testing in CI",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_single_page_app",
+      "target": "xcederweb_react_grid_layout",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "README.md",
+      "source_location": "SPA window management",
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_webpack",
+      "target": "xcederweb_babel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xcederweb_cqg",
+      "target": "xcederweb_chart_studies",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "nodes": [
+        "xcederweb_react",
+        "xcederweb_redux",
+        "xcederweb_redux_saga"
+      ],
+      "label": "React-Redux-Saga data flow architecture",
+      "shared_concept": "Unidirectional data flow pattern: React manages views, Redux manages state, redux-saga handles async side effects",
+      "file_type": "code",
+      "source_file": "README.md",
+      "source_location": "System Structure lines 1-3"
+    },
+    {
+      "nodes": [
+        "xcederweb_protobufjs",
+        "xcederweb_atomosphere",
+        "xcederweb_hotkeys_service"
+      ],
+      "label": "Network communication + keyboard input pipeline",
+      "shared_concept": "Trading platform real-time input/output stack: protobuf serialization over WebSocket, plus keyboard-driven order entry",
+      "file_type": "code",
+      "source_file": "README.md",
+      "source_location": "System Structure lines 4-5 + hotkeys service"
+    },
+    {
+      "nodes": [
+        "xcederweb_chart_studies",
+        "xcederweb_chart_tools",
+        "xcederweb_order_entry_types",
+        "documents_chinese_terms"
+      ],
+      "label": "Trading UI localization subsystem",
+      "shared_concept": "Chinese i18n covering the three core trading UI surfaces: technical analysis indicators, drawing tools, and order management",
+      "file_type": "document",
+      "source_file": "documents/chinese terms.txt",
+      "source_location": "entire file"
+    }
+  ],
+  "input_tokens": 81000,
+  "output_tokens": 36036
+}
