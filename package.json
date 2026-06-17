@@ -24,12 +24,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klinecharts/KLineChart.git"
+    "url": "git+https://github.com/dreamershl/KLineChart.git"
   },
   "bugs": {
-    "url": "https://github.com/klinecharts/KLineChart/issues"
+    "url": "https://github.com/dreamershl/KLineChart/issues"
   },
-  "homepage": "https://klinecharts.com/",
+  "homepage": "https://github.com/dreamershl/KLineChart",
   "keywords": [
     "k-line",
     "time-line",
