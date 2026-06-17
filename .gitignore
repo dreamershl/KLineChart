@@ -9,3 +9,6 @@
 .npmrc
 
 .DS_Store
+graphify-out/
+bun.lock
+package-lock.json
